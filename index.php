@@ -6,6 +6,7 @@
 table, tr, td {
   border-collapse: collapse;
   border: 1px solid blue;
+  background-color: purple;
 }
   </style>
 </head>
