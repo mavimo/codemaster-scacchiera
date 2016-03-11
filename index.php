@@ -15,8 +15,8 @@ table, tr, td {
   <table>
       <?php for ($i = 0; $i < 8; $i++): ?>
       <tr>
-          <?php for ($j = 0; $j < 8; $j++): ?>
-              <td><?php print (($i + $j) % 2) ? "X" : ""; ?></td>
+          <?php for ($k = 0; $k < 8; $k++): ?>
+              <td><?php print (($i + $k) % 2) ? "X" : ""; ?></td>
           <?php endfor; ?>
       </tr>
       <?php endfor; ?>
