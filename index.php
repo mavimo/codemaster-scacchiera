@@ -5,7 +5,7 @@
   <style type="text/css">
 table, tr, td {
   border-collapse: collapse;
-  border: 1px solid gray;
+  border: 1px solid blue;
 }
   </style>
 </head>
